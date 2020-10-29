@@ -1,0 +1,3 @@
+1. Reversing the nodes of a singly linked list in one pass.
+2. Finding the Kth node from the end in one pass where you don't know the size of the list.
+3. Find the middle of a linked list in one pass. If the list has an even number of nodes, there would be two middle nodes. (Note: Assume that you don't know the size of the list ahead of time.
